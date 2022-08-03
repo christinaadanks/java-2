@@ -5,7 +5,7 @@ import java.util.Comparator;
  * I will implement the method compare that defines the ordering
  * from highest to lowest based on cloud storage monthly cost.
  * 
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/11/2020
  */
 public class MonthlyCostComparator implements Comparator<CloudStorage>  {
