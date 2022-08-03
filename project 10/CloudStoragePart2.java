@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 /**
  * Main driver for CloudStorage project.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/11/2020
  */
 public class CloudStoragePart2   {
