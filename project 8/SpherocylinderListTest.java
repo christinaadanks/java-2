@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * SpherocylinderListTest jUnit Test.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 10/30/2020
  */
 
