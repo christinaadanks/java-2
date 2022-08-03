@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
  * Main driver class for CloudStorageList.
  * Program to read in file and generate a report for items in list.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/20/2020
  */
 public class CloudStoragePart3   {
