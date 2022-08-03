@@ -3,7 +3,7 @@ import java.text.DecimalFormat;
 /**
  * Program to store the list name and an array of Spherocylinder objects.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 10/30/2020
  */
 public class SpherocylinderList  {
