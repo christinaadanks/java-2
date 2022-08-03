@@ -6,7 +6,7 @@ import java.io.File;
 /**
  * Program to read in data file and generate reports.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/11/2020
  */
 public class CloudStorageList {
