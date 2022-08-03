@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * BankLoan jUnit test.
- * @author Christinaa Danks
+ * @author Christina L
  * @version 10/13/2020
  */
 
