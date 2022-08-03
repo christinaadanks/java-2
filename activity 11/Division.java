@@ -1,7 +1,7 @@
 /**
  * Program to divide two integers.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/16/2020
  */
 
