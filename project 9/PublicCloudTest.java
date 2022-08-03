@@ -6,7 +6,7 @@ import org.junit.Test;
 /**
  * PublicCloud jUnit test.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/5/2020
  */
 public class PublicCloudTest {
