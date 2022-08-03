@@ -1,7 +1,7 @@
 /**
  * Program that prints out the inventory of items.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/2/2020
  */
  
