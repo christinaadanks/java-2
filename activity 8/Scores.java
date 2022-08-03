@@ -1,7 +1,7 @@
 /**
  * Program that holds an array of numerical values.
  * 
- * @author Christinaa Danks
+ * @author Christina L
  * @version 10/27/2020
  */
 public class Scores  {
