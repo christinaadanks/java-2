@@ -1,7 +1,7 @@
 /**
  * Bank Loan class for calculating bank loans.
  *
- * @author Christinaa Danks
+ * @author Christina L 
  * @version 10/13/2020
  */
 
