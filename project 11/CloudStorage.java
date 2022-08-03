@@ -3,7 +3,7 @@ import java.text.DecimalFormat;
 /**
  * Abstract class that describes cloud storage data.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/11/2020
  */
 
