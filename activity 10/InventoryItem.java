@@ -1,7 +1,7 @@
 /**
  * Program that represents an inventory item in a store.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/2/2020
  */
 
