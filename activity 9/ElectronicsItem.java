@@ -1,7 +1,7 @@
 /**
  * Program that inherits from InventoryItem for electronics items.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/2/2020
  */
 
