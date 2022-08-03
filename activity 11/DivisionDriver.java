@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
  * Program that asks for integers using a dialog box and divides
  * numerator by denominator. Apply try-catch blocks.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/16/2020
  */
  
