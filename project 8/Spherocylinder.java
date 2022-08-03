@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 
 /**
  * Spherocylinder class that stores the label, radius, and cylinder height. 
- * @author Christinaa Danks
+ * @author Christina L
  * @version 10/22/2020
  */
 
