@@ -1,7 +1,7 @@
 /**
  * Program to keep track of word count and more.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/2/2020
  */
 
