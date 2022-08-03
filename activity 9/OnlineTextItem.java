@@ -1,7 +1,7 @@
 /**
  * Program for online text items that users can buy.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/2/2020
  */
 
