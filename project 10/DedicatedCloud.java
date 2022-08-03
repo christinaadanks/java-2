@@ -3,7 +3,7 @@ import java.text.DecimalFormat;
 /**
  * Program for cloud storage data inherited from CloudStorage.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/5/2020
  */
 public class DedicatedCloud extends CloudStorage   {
