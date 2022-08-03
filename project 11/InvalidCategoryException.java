@@ -1,7 +1,7 @@
 /**
  * InvalidCategoryException for CloudStorageList.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/17/2020
  */
 
