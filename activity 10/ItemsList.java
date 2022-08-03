@@ -1,7 +1,7 @@
 /**
  * Program that holds an array of InventoryItems objects.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 11/9/2020
  */
 
